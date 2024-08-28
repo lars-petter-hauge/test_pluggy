@@ -1,0 +1,8 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+[project]
+name = "pluggy_pkg"
+version = "2020.0.0"
+[project.entry-points.main_pkg]
+pluggy_pkg = "pluggy_pkg.main"

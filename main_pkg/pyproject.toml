@@ -1,0 +1,6 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+[project]
+name = "main_pkg"
+version = "2020.0.0"
